@@ -10,6 +10,7 @@
     "axios": "^0.18.0",
     "emoji-mart": "^2.9.2",
     "firebase": "^5.7.2",
+    "material-ui-icons": "^1.0.0-beta.36",
     "md5": "^2.2.1",
     "mime-types": "^2.1.21",
     "moment": "^2.23.0",
